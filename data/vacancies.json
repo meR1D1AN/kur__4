@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Программист-стажер",
+    "url": "https://hh.ru/vacancy/95138876",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Обладаешь учебным опытом разработки на любом из объектно-ориентированных\nязыков программирования (Java, C#, C++, Python и т.д.).\n\n"
+  },
+  {
+    "title": "Стажёр-Backend Разработчик",
+    "url": "https://hh.ru/vacancy/93741391",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Указать готовность к тестовому заданию( переписать код с python на C). Будет\nплюсом опыт работы видеопотоком. Готовность к изучению нового...\n\n"
+  },
+  {
+    "title": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/95175610",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы с Flask от 2 лет. Опыт работы с реляционными СУБД (PostgreSQL).\nОпыт работы со средствами CI/CD.\n\n"
+  },
+  {
+    "title": "Junior Backend Developer (Python и SQL)",
+    "url": "https://hh.ru/vacancy/95090779",
+    "area_name": "Москва",
+    "salary_from": 50000,
+    "salary_to": 70000,
+    "description": "Высшее образование (можно неоконченное/неполное) технического ВУЗа последнего\nили предпоследнего курса. Логичный и структурированный подход к решению задач,\nспособность аргументированно...\n\n"
+  },
+  {
+    "title": "Начинающий Аналитик данных",
+    "url": "https://hh.ru/vacancy/94923946",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее образование (экономика, финансы, макроэкономика, эконометрика,\nматематика, статистика, аналитика, программирование). Базовые знания языка\nPython, базовый опыт работы SQL и VBA.\n\n"
+  },
+  {
+    "title": "Стажер инженер данных (data science)",
+    "url": "https://hh.ru/vacancy/95152797",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Студент или выпускник бакалавриата, специалитета или магистратуры. Начали\nобучение в магистратуре не позже, чем через год после окончания бакалавриата.\n\n"
+  },
+  {
+    "title": "Аналитик данных (Junior)",
+    "url": "https://hh.ru/vacancy/95147084",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": 100000,
+    "description": "Желателен опыт работы с yandex datalens. Уверенное знание SQL, методик и\nпринципов построения дашбордов. Знания в области современных технологий\nобработки...\n\n"
+  },
+  {
+    "title": "QA - инженер",
+    "url": "https://hh.ru/vacancy/95075734",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Есть опыт разработки автоматизированных сценариев на JavaScript/TypeScript,\nJava, Kotlin, Python или C#. Есть опыт работы с DevTools, снифферами\nтрафика...\n\n"
+  },
+  {
+    "title": "DevOps engineer",
+    "url": "https://hh.ru/vacancy/91127002",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Есть навык написания скриптов автоматизации на bash, python. Есть опыт работы\nс git. Понимание основ ООП. Знание Python.\n\n"
+  },
+  {
+    "title": "Разработчик QA (ручное тестирование)",
+    "url": "https://hh.ru/vacancy/95204738",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Базовые знания и понимание синтаксиса языка программирования Python. Участие в\nоптимизации вспомогательных сервисов для повышения качества QA. Готовность\nобучаться у...\n\n"
+  },
+  {
+    "title": "Backend разработчик (Python)",
+    "url": "https://hh.ru/vacancy/88676763",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы на аналогичной позиции от 1 года до 3 лет. Опыт с Restful API\n(Fastapi). Знание dask, celery, sqlalchemy.\n\n"
+  },
+  {
+    "title": "QA инженер (manual)",
+    "url": "https://hh.ru/vacancy/95152743",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Понимание жизненного цикла разработки. Опыт тестирования бизнес-приложений.\nОпыт тестирования API сервисов. Опыт написания тест-кейсов и составление чек-\nлистов.\n\n"
+  },
+  {
+    "title": "Аналитик данных (SQL / Excel / Power BI)",
+    "url": "https://hh.ru/vacancy/95150405",
+    "area_name": "Москва",
+    "salary_from": 70000,
+    "salary_to": 100000,
+    "description": "Мы ищем специалиста, у которого есть опыт построения систем сквозной аналитики\nот учёта переходов на сайт до закрытых сделок в...\n\n"
+  },
+  {
+    "title": "Тестировщик",
+    "url": "https://hh.ru/vacancy/95205125",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Приветствуется знание SQL, протокола http. Знание форматов обмена данными XML,\nJSON. Приветствуется опыт автоматизации тестирования (Postman, JMeter, Python,\nJava, Playwright).\n\n"
+  },
+  {
+    "title": "Intern Analyst (Operations Department)",
+    "url": "https://hh.ru/vacancy/95098443",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "И владеешь английским на уровне Upper Intermediate (B2). Знание Python, R,\nTableau. Интерес к методам и принципам визуализации данных.\n\n"
+  },
+  {
+    "title": "Backend Python-разработчик",
+    "url": "https://hh.ru/vacancy/94836943",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Хорошее знание Python 3.7+. Опыт написания unit-тестов. Опыт разработки\nасинхронных приложений на Python. Понимание принципов построения\nмикросервисной...\n\n"
+  },
+  {
+    "title": "FullStack QA Engineer",
+    "url": "https://hh.ru/vacancy/93654713",
+    "area_name": "Москва",
+    "salary_from": 130000,
+    "salary_to": 200000,
+    "description": "Опыт в тестировании Web (front/back). Знание Python на уровне понимания ООП.\nОпыт работы с REST API, Swagger, HTTP/HTTPS...\n\n"
+  },
+  {
+    "title": "Junior Frontend разработчик",
+    "url": "https://hh.ru/vacancy/94450348",
+    "area_name": "Москва",
+    "salary_from": 40000,
+    "salary_to": 60000,
+    "description": "Умение верстать по Figma и по заданному примеру сайта. Опыт работы с\nадаптивной вёрсткой и простыми анимациями. Знание React и...\n\n"
+  },
+  {
+    "title": "Front-end Vue.js Developer",
+    "url": "https://hh.ru/vacancy/95026548",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Имеет обширный опыт работы с Vue.js 3. Работает с TypeScript (или желание с\nним работать). Понимает, как отлаживать и профилировать...\n\n"
+  },
+  {
+    "title": "Deputy Financial Director",
+    "url": "https://hh.ru/vacancy/95134249",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Системность в работе, проактивность. Отличные знания финансового менеджмента и\nстратегического управления. Владение MS Excel, Google Sheets и Google\nAnalytics, Python...\n\n"
+  },
+  {
+    "title": "Python ML-разработчик (искусственный интеллект)",
+    "url": "https://hh.ru/vacancy/95020549",
+    "area_name": "Москва",
+    "salary_from": 180000,
+    "salary_to": null,
+    "description": "Навыки применения инструментальных средств машинного обучения (профильных\nбиблиотек Python, Keras, TensorFlow, PyTorch или др.). Опыт разработки систем\nComputer Vision, использование...\n\n"
+  },
+  {
+    "title": "Программист-разработчик (стажер)",
+    "url": "https://hh.ru/vacancy/94281477",
+    "area_name": "Москва",
+    "salary_from": 120000,
+    "salary_to": 120000,
+    "description": "Высшее профильное образование. Опыт работы в должности программиста –\nразработчика от 1-го года. Работа в команде над решением сложных и...\n\n"
+  },
+  {
+    "title": "Middle QA Engineer",
+    "url": "https://hh.ru/vacancy/94747923",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы от 2 лет. Понимание жизненного цикла разработки. Опыт тестирования\nвеб-приложения и API сервисов. Опыт написания тест-кейсов...\n\n"
+  },
+  {
+    "title": "AI / ML специалист",
+    "url": "https://hh.ru/vacancy/94922380",
+    "area_name": "Москва",
+    "salary_from": 100000,
+    "salary_to": null,
+    "description": "Понимание алгоритмов машинного обучения. Грамотная письменная речь. Хороший\nуровень английского языка. Базовые знания SEO. Базовые знания CSS, HTML.\nВладение Python...\n\n"
+  },
+  {
+    "title": "Аналитик поддержки (удалённо)",
+    "url": "https://hh.ru/vacancy/95107783",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Есть опыт работы продуктовым аналитиком/аналитиком данных. Умеешь писать\nчистый, читаемый код на Python. Уверенно знаешь SQL (составляешь сложные\nзапросы...\n\n"
+  },
+  {
+    "title": "Junior python разработчик",
+    "url": "https://hh.ru/vacancy/94603140",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...области веб-разработки с использованием Python и Django будет\nпреимуществом. Опыт работы с языком программирования Python и его\nбиблиотеками.\n\n"
+  },
+  {
+    "title": "Data scientist",
+    "url": "https://hh.ru/vacancy/94785609",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Хороший уровень SQL (сложные запросы) и Python (проведение исследований и\nвывода в прод). Понимание теории основных ML/DL алгоритмов, особенности...\n\n"
+  },
+  {
+    "title": "Python Developer (Симуляторы)",
+    "url": "https://hh.ru/vacancy/95070119",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Эффективный продуктовый Python (от 2 лет). Опыт работы с удаленным сервером\n(Linux/ssh/…). Отсутствие боязни Docker-а. Будет круто, если...\n\n"
+  },
+  {
+    "title": "Младший специалист отдела разработки (Python) / Специалист по парсингу данных",
+    "url": "https://hh.ru/vacancy/95149384",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": 80000,
+    "description": "Что обязательно нужно знать и уметь: Python на базовом уровне (циклы, функции,\nструктуры данных, ООП). Что такое Header, Cookie и...\n\n"
+  },
+  {
+    "title": "Специалист по обработке данных (здравоохранение)",
+    "url": "https://hh.ru/vacancy/94924401",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание основ статистики и методов анализа данных. Опыт работы в эпидемиологии.\nЗнание SQL или Python на базовом уровне.\n\n"
+  },
+  {
+    "title": "Разработчик Python / Computer Vision",
+    "url": "https://hh.ru/vacancy/94332121",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": 250000,
+    "description": "Хорошие знания Python и умение писать на нем качественный и понятный код.\nЗнание классического ML, классификация, кластеризация, регрессия.\n\n"
+  },
+  {
+    "title": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/94782503",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее образование (техническое). Опыт работы от 2 лет. Отличное знание\nPython. Опыт разработки web-приложений и Restful API.\n\n"
+  },
+  {
+    "title": "Стажер продуктовый аналитик",
+    "url": "https://hh.ru/vacancy/95138472",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Ты хорошо владеешь SQL. Умеешь хорошо считать. Опыт от полугода (возможен\nучебный в Яндекс Практикум или KARPOV.COURSES). Высшее техническое\nобразование...\n\n"
+  },
+  {
+    "title": "Разработчик C# (Junior+/Middle-)",
+    "url": "https://hh.ru/vacancy/94176753",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт участия в коммерческих или open source проектах или наличие своего\nпроекта. Знание Python, достаточные написания простых скриптов бизнес-\nпроцессов.\n\n"
+  },
+  {
+    "title": "Python developer",
+    "url": "https://hh.ru/vacancy/95196128",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": 8000,
+    "description": "Обладаешь глубоким пониманием структур данных, алгоритмов и объектно-\nориентированного программирования на Python. Имеешь коммерческий опыт\nасинхронного программирования. Понимаешь принципы работы...\n\n"
+  },
+  {
+    "title": "Front-end разработчик",
+    "url": "https://hh.ru/vacancy/94112868",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное знание HTML, CSS, JavaScript (Typescript). Уверенное знание React.\nАдаптивная, кроссбраузерная верстка. Опыт работы с REST API. Умение работать\nс...\n\n"
+  },
+  {
+    "title": "Тестировщик ПО / QA engineer",
+    "url": "https://hh.ru/vacancy/94970523",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": 100000,
+    "description": "Умение анализировать бизнес и функциональные требования, технические задания.\nЗнание техник тест-дизайна и опыт применения теории тестирования в работе.\n\n"
+  },
+  {
+    "title": "Python-разработчик / Python Developer",
+    "url": "https://hh.ru/vacancy/95059048",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Отличное знание Python. Отличное знание Django и его стандартных модулей (в\nособенности ORM и Admin). Опыт работы с DRF.\n\n"
+  },
+  {
+    "title": "Junior-разработчик",
+    "url": "https://hh.ru/vacancy/94114941",
+    "area_name": "Москва",
+    "salary_from": 60000,
+    "salary_to": null,
+    "description": "Ты знаешь инструменты для обработки и анализа данных, такие как Microsoft\nExcel, SQL, Python или R; умеешь работать с системами...\n\n"
+  },
+  {
+    "title": "Intern Developer",
+    "url": "https://hh.ru/vacancy/94183973",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знания Python/C++, алгоритмов и структур данных. Высшее\nтехническое/математическое образование (оконченное или неоконченное -\nпоследний курс). Готовность работать в офисе.\n\n"
+  },
+  {
+    "title": "Аналитик данных",
+    "url": "https://hh.ru/vacancy/93601411",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы аналитиком от 3 лет. Уверенное владение SQL, Python. Навык\nсоздания дашбордов в BI системах. Профильное образование в сфере...\n\n"
+  },
+  {
+    "title": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/94623534",
+    "area_name": "Москва",
+    "salary_from": 120000,
+    "salary_to": 150000,
+    "description": "Ответственное написание документации к коду для облегчения понимания и\nсовместной работы. Глубокое знание Python (* + библиотек по работе с\nбольшими...\n\n"
+  },
+  {
+    "title": "Junior Data Scientist",
+    "url": "https://hh.ru/vacancy/94536493",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное владение SQL и «джентльменским стеком» на Python (pandas, numpy,\nsklearn, xgboost, etc.). Приветствуется опыт с Hadoop / PySpark и polars.\n\n"
+  },
+  {
+    "title": "Ведущий инженер-тестировщик программно-аппаратных комплексов",
+    "url": "https://hh.ru/vacancy/95104329",
+    "area_name": "Москва",
+    "salary_from": 160000,
+    "salary_to": null,
+    "description": "Высшее техническое образование (желательно по IT специальности). Опыт работы\nтестировщиком. Опыт работы в Unix-подобных системах. Знание процесса\nразработки ПО...\n\n"
+  },
+  {
+    "title": "Разработчик backend на Python",
+    "url": "https://hh.ru/vacancy/94248444",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "опыт работы с одним из web framework Python (Flask/FastAPI). - опыт построения\nбиблиотек на C++ (использование технологии параллельной обработки данных). -\n\n"
+  },
+  {
+    "title": "Аналитик продукта / Product Analyst в Joom",
+    "url": "https://hh.ru/vacancy/90601046",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание математической статистики и опыт ее применения. Уверенные навыки\nпрограммирования на Python (Pandas, Numpy). Умение писать сложные SQL-запросы.\n\n"
+  },
+  {
+    "title": "QA engineer (manual)",
+    "url": "https://hh.ru/vacancy/94119723",
+    "area_name": "Москва",
+    "salary_from": 100000,
+    "salary_to": 120000,
+    "description": "Ведение тестовой документации и написание тест-кейсов. Более 2 лет опыта\nручного тестирования. Понимание жизненного цикла программного обеспечения.\n\n"
+  },
+  {
+    "title": "Программист-разработчик",
+    "url": "https://hh.ru/vacancy/94850677",
+    "area_name": "Москва",
+    "salary_from": 70000,
+    "salary_to": null,
+    "description": "Опыт работы с технологиями: Python, Docker, Aiogram 3.x, Fluent, Sqlalchemy,\nAsyncio, ClickHouse, PostgreSQL, Redis, Fastapi, k18n.\n\n"
+  },
+  {
+    "title": "Младший Web-разработчик",
+    "url": "https://hh.ru/vacancy/94660474",
+    "area_name": "Москва",
+    "salary_from": 100000,
+    "salary_to": null,
+    "description": "Знание Python, Django, умение работать с реляционными базами данных (мы\nиспользуем MsSQL). «Умение в линукс» на уровне конфигурации apache, nginx...\n\n"
+  },
+  {
+    "title": "Руководитель отдела по информационным технологиям",
+    "url": "https://hh.ru/vacancy/95109862",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенные знания PHP 5.х-7.х, ООП, Python. Знания JavaScript, React, HTML,\nCSS, Кроссплатформенная верстка. Уверенные знания MySQL, опыт...\n\n"
+  },
+  {
+    "title": "Backend разработчик",
+    "url": "https://hh.ru/vacancy/95024504",
+    "area_name": "Москва",
+    "salary_from": 80000,
+    "salary_to": 110000,
+    "description": "Опыт работы бэкенд разработчиком от года. Знание Python, Django, DRF, опыт\nиспользования mypy. Умение использовать Docker и PostgreSQL.\n\n"
+  },
+  {
+    "title": "Стажер аналитик–разработчик",
+    "url": "https://hh.ru/vacancy/95152812",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Студент или выпускник бакалавриата, специалитета 2021−2024 или магистратуры\n2021−2025. Начали обучение в магистратуре не позже, чем через год...\n\n"
+  },
+  {
+    "title": "Head of QA",
+    "url": "https://hh.ru/vacancy/95075575",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Имеете глубокие знания в области методологий тестирования, инструментов\nавтоматизации на Python или Java, а также методик нагрузочного тестирования.\n\n"
+  },
+  {
+    "title": "Frontend Developer",
+    "url": "https://hh.ru/vacancy/94287340",
+    "area_name": "Москва",
+    "salary_from": 100000,
+    "salary_to": 200000,
+    "description": ""
+  },
+  {
+    "title": "Middle QA Engineer",
+    "url": "https://hh.ru/vacancy/94844562",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Начальные знания хотя бы одного языка программирования, используемого для\nсоздания веб-приложений (предпочтительно python). Знание ГОСТ, ГОСТ РВ по\nразработке...\n\n"
+  },
+  {
+    "title": "Project manager Junior",
+    "url": "https://hh.ru/vacancy/92816235",
+    "area_name": "Москва",
+    "salary_from": 70000,
+    "salary_to": null,
+    "description": "Опыт работы с базами данных, инструментами анализа данных (например, SQL,\nPython, R, Power BI) и создание отчетов на основе данных.\n\n"
+  },
+  {
+    "title": "Python Developer (remote)",
+    "url": "https://hh.ru/vacancy/94811640",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Нацеленность на результат, нестандартный подход к задачам, аналитический склад\nума. Опыт программирования на Python. Знание любого web фреймворка.\n\n"
+  },
+  {
+    "title": "Тестировщик/QA-специалист",
+    "url": "https://hh.ru/vacancy/90294293",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы в тестировании сложных бизнес-процессов обязателен. Умение\nработать с консолью браузера, знание принципов работы клиент-сервер, умение\nчитать...\n\n"
+  },
+  {
+    "title": "Middle Python developer",
+    "url": "https://hh.ru/vacancy/95208882",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Навыки программирования Python. Опыт работы с Git. Умение разбираться в чужом\nкоде. Английский язык на продвинутом уровне для чтения технической...\n\n"
+  },
+  {
+    "title": "Аналитик (junior)",
+    "url": "https://hh.ru/vacancy/93988359",
+    "area_name": "Москва",
+    "salary_from": 50000,
+    "salary_to": null,
+    "description": "Опыт работы с базами данных (особенно PostgreSQL) и Python – это плюс. Знание\nдругих языков программирования будет являться плюсом.\n\n"
+  },
+  {
+    "title": "QA engineer",
+    "url": "https://hh.ru/vacancy/95125863",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт написания тестовых сценариев, отчетов по тестированию. Опыт работы с Git.\nОпыт написания Python скриптов. Владение инструментами для автоматизации\nтестирования.\n\n"
+  },
+  {
+    "title": "Frontend-разработчик web-приложений",
+    "url": "https://hh.ru/vacancy/94964634",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": 80000,
+    "description": "Знание базовых алгоритмов и структуры данных, понимание принципов ООП и его\nособенностей в Python. Знание PostgreSQL. Используемый стек технологий:\nDjango.\n\n"
+  },
+  {
+    "title": "Frontend-разработчик",
+    "url": "https://hh.ru/vacancy/94583404",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...и осваивать новые технологии. Способность ориентироваться в чужом коде и\nработать в команде. Большим плюсом будет являться знание python/django.\n\n"
+  },
+  {
+    "title": "Technical Project Manager",
+    "url": "https://hh.ru/vacancy/94908516",
+    "area_name": "Москва",
+    "salary_from": 350000,
+    "salary_to": 470000,
+    "description": "Базовое знание хотя бы одного из языков программирования (например, Python,\nGolang или Java). Опыт работы с распределенными командами и разработчиками...\n\n"
+  },
+  {
+    "title": "Data Analyst / Data Scientist (Junior/Junior+)",
+    "url": "https://hh.ru/vacancy/94956753",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Образование – математика, информатика в бизнесе и аналогичные. Хороший уровень\nPython (pandas, numpy) в части анализа и обработки данных.\n\n"
+  },
+  {
+    "title": "Middle Backend Python программист",
+    "url": "https://hh.ru/vacancy/94988268",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт коммерческой разработки с использованием Python от 1,5 лет - кандидатов с\nменьшим опытом пока не готовы рассматривать.\n\n"
+  },
+  {
+    "title": "Инженер-тестировщик",
+    "url": "https://hh.ru/vacancy/94961435",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы с ОС Astra, Alt, RedOS, Роса. Опыт работы с Python. Опыт работы с\nPostgreSQL. Понимание процесса формирования deb...\n\n"
+  },
+  {
+    "title": "Python-разработчик (инженер-программист)",
+    "url": "https://hh.ru/vacancy/94755858",
+    "area_name": "Москва",
+    "salary_from": 70000,
+    "salary_to": 100000,
+    "description": "Применение методов отладки программного кода. Применение инструментов\nкроссплатформенного управления зависимостями Python (poetry). Знание\nнормативно-технических документов (стандарты и регламенты), определяющих...\n\n"
+  },
+  {
+    "title": "Junior Analyst (Antifraud)",
+    "url": "https://hh.ru/vacancy/94781992",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Понимание устройства БД, принципов оптимизации запросов и организации хранения\nданных. Свободное владение Python для анализа данных из различных источников\n(БД...\n\n"
+  },
+  {
+    "title": "Python-разработчик (Junior)",
+    "url": "https://hh.ru/vacancy/94675505",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенные знания Python. Коммерческий опыт разработки на Python. Уверенные\nзнания SQL, опыт оптимизации sql-запросов. Навыки работы с Linux (командная...\n\n"
+  },
+  {
+    "title": "Стажер в информационную безопасность",
+    "url": "https://hh.ru/vacancy/94932137",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": 40000,
+    "description": "Системное администрирования (Linux и Windows). Работы с различными СЗИ. Навык\nработы со скриптами (Python, Bash, Powershell). Навык анализа логов ОС...\n\n"
+  },
+  {
+    "title": "Python разработчик",
+    "url": "https://hh.ru/vacancy/95179122",
+    "area_name": "Москва",
+    "salary_from": 150000,
+    "salary_to": 200000,
+    "description": "Опыт разработки на Python от 3-х лет, опыт с Django обязателен. Понимание веб-\nстека, принципов REST и построения реляционных...\n\n"
+  },
+  {
+    "title": "QA-инженер / Тестировщик программного обеспечения",
+    "url": "https://hh.ru/vacancy/95060340",
+    "area_name": "Москва",
+    "salary_from": 80000,
+    "salary_to": null,
+    "description": "Базовые знания английского приветствуются. Прохождение специализированных\nкурсов. Базовое представление об SQL. Знание скриптовых языков типа Python.\nЖелание развиваться в области...\n\n"
+  },
+  {
+    "title": "Middle QA engineer",
+    "url": "https://hh.ru/vacancy/94538869",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание этапов жизненного цикла дефектов. Знание Python, Pytest, Selenium. Опыт\nв написании авто-тестов: написание, запуск, разбор падений.\n\n"
+  },
+  {
+    "title": "Python Developer",
+    "url": "https://hh.ru/vacancy/94811526",
+    "area_name": "Москва",
+    "salary_from": 180000,
+    "salary_to": 240000,
+    "description": "Самостоятельно выполнять поставленные задачи. Понимает подходы к\nпроектированию архитектуры API. Понимает принципы работы Django ORM. Знает и\nвладеет Django, Django...\n\n"
+  },
+  {
+    "title": "Аналитик данных",
+    "url": "https://hh.ru/vacancy/94755091",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Хорошо знаете математику и владеете основами статистики. Отлично знаете SQL\n(вложенные запросы, оконные функции, CTE). Отлично знаете Excel.\n\n"
+  },
+  {
+    "title": "Аналитик / Python / Junior",
+    "url": "https://hh.ru/vacancy/94759412",
+    "area_name": "Москва",
+    "salary_from": 60000,
+    "salary_to": 80000,
+    "description": "Отличное владение MS Office (Excel) и Google таблицами. Базовое владение\n(Python). Полная отдача и погружение в работу. Аналитический склад ума...\n\n"
+  },
+  {
+    "title": "Стажер-разработчик Python",
+    "url": "https://hh.ru/vacancy/94803188",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...разработки на Python (желательно - Django) и желание много учиться и\nработать, откликайтесь на эту вакансию. Опыт разработки на Python (Django).\n\n"
+  },
+  {
+    "title": "Тестировщик ручной",
+    "url": "https://hh.ru/vacancy/95127923",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Обладаете опытом ведения тестовой документации. Имеете хорошие коммуникативные\nнавыки, умеете задавать правильные вопросы менеджерам и разработчикам. Знаете\nSQL на уровне...\n\n"
+  },
+  {
+    "title": "Frontend-разработчик",
+    "url": "https://hh.ru/vacancy/94781082",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Подход к работе: Имеете опыт frontend-разработки на React; Отличные знания\nHTML5, CSS3+; Есть опыт с TS...\n\n"
+  },
+  {
+    "title": "Стажер BigData",
+    "url": "https://hh.ru/vacancy/94671884",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное владение MS Office (Excel, Word). Быть внимательным, пунктуальным и\nусидчивым. Знание Python / R + SQL будет преимуществом, ML.\n\n"
+  },
+  {
+    "title": "Экономист-аналитик",
+    "url": "https://hh.ru/vacancy/94924114",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее экономическое образование. Знание эконометрики, экономической теории и\nстатистики. Опыт работы с базами данных как преимущество (Python, R, SQL).\n\n"
+  },
+  {
+    "title": "Junior python developer (Удаленно)",
+    "url": "https://hh.ru/vacancy/93742422",
+    "area_name": "Москва",
+    "salary_from": 100000,
+    "salary_to": null,
+    "description": "CURL - опыт работы и понимание основных принципов. Многопоточность в Python\n(threading). Знание SQL. Опыт развертывания postgreSQL на сервере и её...\n\n"
+  },
+  {
+    "title": "Инженер сопровождения (удаленно)",
+    "url": "https://hh.ru/vacancy/92416081",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": 260000,
+    "description": "Знание Linux (Red Hat) и понимание работы команды CURL, Postman. Знание и опыт\nработы с Python Java, JS, Go, а...\n\n"
+  },
+  {
+    "title": "Java Developer",
+    "url": "https://hh.ru/vacancy/93622656",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Java 17, Spring, K8s, Kafka, Gitlab CI/CD, ArgoCD, JFrog, Jira, Confluence.\nПринципы наблюдаемости систем (logs, tracing, metrics).\n\n"
+  },
+  {
+    "title": "Тестировщик ПО",
+    "url": "https://hh.ru/vacancy/94908254",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Коммуникабельность и умение эффективно работать в команде. Опыт работы с\nPython Selenium. Понимание методов тестирования White Box и Black Box.\n\n"
+  },
+  {
+    "title": "QA engineer (удаленно)",
+    "url": "https://hh.ru/vacancy/95051335",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание SQL (на уровне простых запросов), опыт работы с базами данных. Опыт\nработы c Python \\+ pytest. Опыт в тестирование...\n\n"
+  },
+  {
+    "title": "Frontend-разработчик",
+    "url": "https://hh.ru/vacancy/95178943",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Как дополнительное преимущество, знание таких умных слов как: Python, Prolog,\nLisp, FPGA, unit-тесты, математическая логика. Личностные качества:\nсамостоятельность, ответственность...\n\n"
+  },
+  {
+    "title": "Head \\ Lead \\ Team lead QA",
+    "url": "https://hh.ru/vacancy/94995132",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...и фреймворк на python). 7. Хорошее понимание микросервисной архитектуры. 8.\nЗнание или понимание языков программирования: JS, Python. 9.\n\n"
+  },
+  {
+    "title": "Фронтенд-инженер (Bitcoin)",
+    "url": "https://hh.ru/vacancy/94881039",
+    "area_name": "Москва",
+    "salary_from": 1000,
+    "salary_to": 3000,
+    "description": "Будет плюсом: Знание JS, HTML, CSS, Sass. Бекенд опыт (Python, JS). Опыт\nработы с базами данных. Опыт тестирования (jest, cypress...\n\n"
+  },
+  {
+    "title": "Аналитик данных",
+    "url": "https://hh.ru/vacancy/95080705",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Автоматизация ETL/ELT процессов Ключевые знания и навыки: Excel (сводные\nтаблицы). Требования: Базовые знания SQL. Опыт работы с базами данных...\n\n"
+  },
+  {
+    "title": "Data Engineer Junior, удаленно",
+    "url": "https://hh.ru/vacancy/94804807",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": 100000,
+    "description": "SQL и много JOIN. - методология Кимбалла. - методология Инмона. - готов\nрефлексировать на тему \"что и как сделал\".\n\n"
+  },
+  {
+    "title": "Support engineer",
+    "url": "https://hh.ru/vacancy/94392103",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...СКС и опыт монтажа. Опыт удалённого администрирования. Опыт работы с Mac и\nLinux. Углублённое знание сетевого стека. Знание Powershell,Python.\n\n"
+  },
+  {
+    "title": "Программист-разработчик",
+    "url": "https://hh.ru/vacancy/94898923",
+    "area_name": "Москва",
+    "salary_from": 150000,
+    "salary_to": 300000,
+    "description": "Высшее образование. Опыт программирования на Python. Опыт программирования\nмикроконтроллеров. Творческий подход. Опыт создания программного обеспечения\nот проектирования до внедрения.\n\n"
+  },
+  {
+    "title": "QA Engineer",
+    "url": "https://hh.ru/vacancy/95130165",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт программирования автотестов на python (знание библиотеки requests).\nЗнание python core. Опыт использования библиотек и фреймворков python\n(selenium, allure, loguru...\n\n"
+  },
+  {
+    "title": "Backend Python",
+    "url": "https://hh.ru/vacancy/94281669",
+    "area_name": "Москва",
+    "salary_from": 120000,
+    "salary_to": null,
+    "description": "...на Python. Имеете опыт разработки с СУБД используя Entity Framework. Имеете\nопыт асинхронного программирования, как оно устроено в языке Python...\n\n"
+  },
+  {
+    "title": "Аналитик (junior)",
+    "url": "https://hh.ru/vacancy/93161259",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Классный коллектив, который мы тщательно отбирали, т. к. нам важны не только\nумения человека, но и его личность.\n\n"
+  },
+  {
+    "title": "QA Engineer",
+    "url": "https://hh.ru/vacancy/94250061",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": 80000,
+    "description": "REST Crude операции. Android/IOS Будет плюсом: Базовые знания о криптовалютах.\nПонимание предметной области трейдинга. Базовые знания JS/Python.\n\n"
+  },
+  {
+    "title": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/94847823",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Склонность к грамотному оформлению документации, понимание нотации UML.\nОписание различных аспектов проектируемых систем с применением.\nСоответствующих типов UML-диаграмм.\n\n"
+  },
+  {
+    "title": "Product/Data Analyst",
+    "url": "https://hh.ru/vacancy/95040300",
+    "area_name": "Москва",
+    "salary_from": null,
+    "salary_to": 400000,
+    "description": "Умение писать sql-запросы (в любом синтаксисе, на уровне получения и первичной\nобработки данных). Знание Python (обработка, визуализация, стат. пакеты).\n\n"
+  }
+]

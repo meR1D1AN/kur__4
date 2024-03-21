@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "kur4-2"
+version = "0.1.0"
+description = ""
+authors = ["Nikita <nikita@mer1d1an.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+html2text = "^2024.2.26"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
