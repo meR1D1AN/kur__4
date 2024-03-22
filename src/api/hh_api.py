@@ -15,6 +15,10 @@ class HeadHunterAPI(VacancyAPI):
             "page": page,
             "per_page": 100
         }
-        response = requests.get(url, params=params)
-        response.raise_for_status()
-        return response.json()
+        try:
+            response = requests.get(url, params=params)
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"Ошибка при выполнении запроса к API hh.ru: {e}")
+            return None
