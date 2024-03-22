@@ -1,4 +1,7 @@
-class VacancyAPI:
+from abc import ABC, abstractmethod
+
+
+class VacancyAPI(ABC):
     """
     Абстрактный класс для работы с API сервиса с вакансиями
     """
@@ -6,7 +9,8 @@ class VacancyAPI:
     def __init__(self, base_url):
         self.base_url = base_url
 
-    def get_vacancies(self, search_query):
+    @abstractmethod
+    def get_vacancies(self, search_query, area=None, page=0):
         """
         Получить список вакансий с API
         """
