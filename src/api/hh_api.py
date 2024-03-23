@@ -6,6 +6,11 @@ import requests
 class HeadHunterAPI(VacancyAPI):
     def __init__(self):
         super().__init__("https://api.hh.ru/")
+        self._url = self.base_url
+
+    @property
+    def url(self):
+        return self._url
 
     def get_vacancies(self, search_query, area=None, page=0):
         url = f"{self.base_url}vacancies"
