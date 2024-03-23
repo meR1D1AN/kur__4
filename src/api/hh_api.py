@@ -1,3 +1,4 @@
+from typing import Optional, Dict
 from src.api.vacancy_api import VacancyAPI
 import requests
 
@@ -13,14 +14,14 @@ class HeadHunterAPI(VacancyAPI):
         self._url = self.base_url
 
     @property
-    def url(self):
+    def url(self) -> str:
         """
         Геттер для получения URL API hh.ru
         :return: str: URL API hh.ru
         """
         return self._url
 
-    def get_vacancies(self, search_query, area=None, page=0):
+    def get_vacancies(self, search_query: str, area: Optional[str] = None, page: int = 0) -> Optional[Dict]:
         """
         Получает список вакансий с API hh.ru
             search_query (str): Поисковый запрос.

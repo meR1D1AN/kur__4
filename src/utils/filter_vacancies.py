@@ -1,4 +1,8 @@
-def filter_vacancies(vacancies, filter_words):
+from typing import List
+from src.vacancy.vacancy import Vacancy
+
+
+def filter_vacancies(vacancies: List[Vacancy], filter_words: List[str]) -> List[Vacancy]:
     """
     Фильтрует вакансии по ключевым словам
     """

@@ -1,4 +1,8 @@
-def get_vacancies_by_salary(vacancies, salary_range):
+from typing import List
+from src.vacancy.vacancy import Vacancy
+
+
+def get_vacancies_by_salary(vacancies: List[Vacancy], salary_range: str) -> List[Vacancy]:
     """
     Фильтрует вакансии по зарплате
     """
