@@ -2,6 +2,7 @@ from typing import List, Optional, Callable
 from src.vacancy.vacancy import Vacancy
 from src.storage.vacancy_storage import VacancyStorage
 import json
+import os
 
 
 class JSONVacancyStorage(VacancyStorage):
@@ -11,6 +12,7 @@ class JSONVacancyStorage(VacancyStorage):
 
     def __init__(self, filepath: str):
         self.filepath = filepath
+        os.makedirs(os.path.dirname(filepath), exist_ok=True)
 
     def _load_vacancies(self) -> List[dict]:
         """
@@ -21,6 +23,7 @@ class JSONVacancyStorage(VacancyStorage):
                 data = json.load(file)
         except FileNotFoundError:
             data = []
+            self._save_vacancies(data)
         return data
 
     def _save_vacancies(self, data: List[dict]) -> None:
