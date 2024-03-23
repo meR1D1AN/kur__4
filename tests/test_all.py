@@ -51,7 +51,8 @@ def test_vacancy_init():
 def test_vacancy_str():
     vacancy = Vacancy("Test Vacancy", "http://test.com", "Москва", 100000, 0, "Test description")
     assert str(
-        vacancy) == "Ссылка на вакансию: http://test.com -> Город: Москва\nВакансия: Test Vacancy\nЗарплата: от 100000\nОписание: Test description..."
+        vacancy) == ("Ссылка на вакансию: http://test.com -> Город: Москва\nВакансия: Test Vacancy"
+                     "\nЗарплата: от 100000\nОписание: Test description...")
 
 
 def test_vacancy_lt():
