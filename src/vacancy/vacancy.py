@@ -1,19 +1,17 @@
 import html2text
+from typing import Optional
 
 
 # Класс для работы с вакансиями
 class Vacancy:
-    title: str
-    url: str
-    area_name: str
-    salary_from: int
-    salary_to: int
-    description: str
     """
     Класс для работы с вакансиями
     """
 
-    def __init__(self, title: str, url: str, area_name: str, salary_from: int, salary_to: int, description: str):
+    __slots__ = ("title", "url", "area_name", "salary_from", "salary_to", "description")
+
+    def __init__(self, title: str, url: str, area_name: str,
+                 salary_from: Optional[int], salary_to: Optional[int], description: str):
         self.title = title
         self.url = url
         self.area_name = area_name

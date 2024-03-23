@@ -1,3 +1,4 @@
+from typing import List, Optional, Callable
 from src.vacancy.vacancy import Vacancy
 from src.storage.vacancy_storage import VacancyStorage
 import json
@@ -8,10 +9,10 @@ class JSONVacancyStorage(VacancyStorage):
     Класс для сохранения вакансий в JSON файл
     """
 
-    def __init__(self, filepath):
+    def __init__(self, filepath: str):
         self.filepath = filepath
 
-    def _load_vacancies(self):
+    def _load_vacancies(self) -> List[dict]:
         """
         Загружает данные из файла
         """
@@ -22,14 +23,14 @@ class JSONVacancyStorage(VacancyStorage):
             data = []
         return data
 
-    def _save_vacancies(self, data):
+    def _save_vacancies(self, data: List[dict]) -> None:
         """
         Сохраняет данные в файл
         """
         with open(self.filepath, "w", encoding="utf-8") as file:
             json.dump(data, file, indent=2, ensure_ascii=False)
 
-    def add_vacancy(self, vacancy):
+    def add_vacancy(self, vacancy: Vacancy) -> None:
         """
         Добавляет вакансию в список
         """
@@ -45,7 +46,7 @@ class JSONVacancyStorage(VacancyStorage):
         data.append(vacancy_dict)
         self._save_vacancies(data)
 
-    def get_vacancies(self, filters=None):
+    def get_vacancies(self, filters: Optional[List[Callable[[Vacancy], bool]]] = None) -> List[Vacancy]:
         """
         Возвращает список вакансий
         """
@@ -55,7 +56,7 @@ class JSONVacancyStorage(VacancyStorage):
             vacancies = [v for v in vacancies if all(filter(v) for filter in filters)]
         return vacancies
 
-    def delete_vacancy(self, vacancy):
+    def delete_vacancy(self, vacancy: Vacancy) -> None:
         """
         Удаляет вакансию из списка
         """
